@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chief Worker Flow"
+  short_description: "可验证地分派 worker 任务"
+  default_prompt: "使用 $chief-worker-flow 协调这个任务：主会话提取意图并制定验收协议，worker 有界执行、返回证据并关闭。"
